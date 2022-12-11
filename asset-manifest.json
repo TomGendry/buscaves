@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscaves/static/css/main.387937be.css",
+    "main.js": "/buscaves/static/js/main.3a68d4a2.js",
+    "index.html": "/buscaves/index.html",
+    "main.387937be.css.map": "/buscaves/static/css/main.387937be.css.map",
+    "main.3a68d4a2.js.map": "/buscaves/static/js/main.3a68d4a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.387937be.css",
+    "static/js/main.3a68d4a2.js"
+  ]
+}
